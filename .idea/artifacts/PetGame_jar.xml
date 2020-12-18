@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PetGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PetGame_jar</output-path>
+    <root id="archive" name="PetGame.jar">
+      <element id="module-output" name="PetGame" />
+    </root>
+  </artifact>
+</component>
