@@ -262,7 +262,7 @@ public class Gui extends Thread{
             funCount.setText(Integer.toString(Needs.fun));
             funCount.setForeground(Color.red);
         }
-    }
+    }//ahoj
 
     public static void moodChecker() {
         Needs.aq = Needs.hungry + Needs.hygiene + Needs.fun;
