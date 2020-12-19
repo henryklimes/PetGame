@@ -111,7 +111,6 @@ public class Gui extends Thread{
                 Object o = e.getSource();
                 ImageIcon clock = new ImageIcon("clock.png");
 
-
                 if (o == hungryButton ) {
                     if (consoleL.getIcon() != clock) {
                         if (Needs.hungry < 3) {
